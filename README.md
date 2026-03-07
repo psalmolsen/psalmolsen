@@ -6,9 +6,15 @@
 
 ## 🛠️ Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=html,css,js,tailwind,cpp,java)
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,tailwind,cpp,java,firebase)
 
-💡 I also build desktop apps using **Java Swing**.
+### Frameworks & Libraries
+- Tailwind CSS
+- Java Swing
+
+### Cloud & Services
+- Firebase
+- Cloudinary
 
 ---
 
