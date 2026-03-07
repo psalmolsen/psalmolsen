@@ -1,23 +1,15 @@
-# 👋 Hi, I'm Psalm Olsen
-
-💻 Developer passionate about building web and desktop applications.
-
----
-
 ## 🛠️ Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=html,css,js,tailwind,cpp,java,firebase)
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40"/>
+<img src="https://cdn.simpleicons.org/cloudinary/3448C5" height="40"/>
+</p>
 
 ### Frameworks & Libraries
-- Tailwind CSS
 - Java Swing
-
-### Cloud & Services
-- Firebase
-- Cloudinary
-
----
-
-## 📊 GitHub Stats
-
-![Psalm's GitHub stats](https://github-readme-stats.vercel.app/api?username=psalmolsen&show_icons=true&theme=tokyonight)
