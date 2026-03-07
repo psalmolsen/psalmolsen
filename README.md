@@ -1,50 +1,33 @@
-## 🛠️ Tech Stack
+<p align="center">
+  
+<a href="#"><img src="https://skillicons.dev/icons?i=cpp" width="55"/></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=java" width="55"/></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=html" width="55"/></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=css" width="55"/></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=js" width="55"/></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=tailwind" width="55"/></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50"/></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/cloudinary" width="50"/></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/firebase.svg" width="50"/></a>
 
-<div style="display: flex; flex-direction: column; gap: 12px; max-width: 200px;">
+</p>
 
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" />
-    <span>HTML</span>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" />
-    <span>CSS</span>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" />
-    <span>JavaScript</span>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30" />
-    <span>Tailwind</span>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" />
-    <span>C++</span>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" />
-    <span>Java</span>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <img src="https://www.gstatic.com/devrel-devsite/prod/v16d93e8b01812b2b32d7a5111ed30f79e5602e8f165ff146dd158db448a6b252/firebase/images/lockup.svg" width="30" />
-    <span>Firebase</span>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <img src="https://cdn.simpleicons.org/cloudinary/3448C5" width="30" />
-    <span>Cloudinary</span>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <img src="https://cdn.simpleicons.org/n8n/ea4b71" width="30" />
-    <span>n8n</span>
-  </div>
-
-</div>
+<p align="center">
+<sub><b>C++</b></sub> &nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>Java</b></sub> &nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>HTML</b></sub> &nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>CSS</b></sub> &nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>JavaScript</b></sub> &nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>Tailwind</b></sub> &nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>n8n</b></sub> &nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>Cloudinary</b></sub> &nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>Firebase</b></sub>
+</p>
