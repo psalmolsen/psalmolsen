@@ -22,6 +22,18 @@
 <sub>JavaScript</sub>
 </td>
 <td align="center">
+<img src="https://skillicons.dev/icons?i=ts" width="50"/><br>
+<sub>TypeScript</sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="50"/><br>
+<sub>React</sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>
+<sub>Node.js</sub>
+</td>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br>
 <sub>Tailwind</sub>
 </td>
